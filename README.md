@@ -1,7 +1,6 @@
 # 7-Day Flutter Challenge: Rocket launch transition animation
 A rocket launch styled page transition revealing a new page on flutter
 
-# 7-Day Flutter Challenge: Bouncing Ball Tab Animation
 <p align="center">
   <img src="https://media.giphy.com/media/P5okiKJwSre5rMcvzE/giphy.gif" alt="Flutter rocket launch transition" width="300">
 </p>

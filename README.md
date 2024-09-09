@@ -9,4 +9,11 @@ A rocket launch styled page transition revealing a new page on flutter
 
 What's This All About?
 
-https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e
+
+
+https://github.com/user-attachments/assets/a10ef69b-756e-4d8d-a080-20e0eee437e1
+
+
+
+
+[Find more about the 7 day flutter challenge here.](https://codinglollypop.medium.com/7-days-of-flutter-fun-a-visual-journey-through-animations-4caeb556403e))

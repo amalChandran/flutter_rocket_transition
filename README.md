@@ -5,6 +5,8 @@ A rocket launch styled page transition revealing a new page on flutter
   <img src="https://media.giphy.com/media/P5okiKJwSre5rMcvzE/giphy.gif" alt="Flutter rocket launch transition" width="300">
 </p>
 
+[Read the guided article here.](https://codinglollypop.medium.com/mastering-flutter-animation-creating-a-dynamic-rocket-exhaust-effect-7d4d594ad1db)
+
 # Welcome to Day 3 of my 7-Day Flutter Challenge! 🚀
 
 What's This All About?
